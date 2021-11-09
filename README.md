@@ -1,4 +1,4 @@
-<h1 align="center">CS 1101: PROGRAMMING I</h1>
+<h1 align="center">CS 1102: PROGRAMMING I</h1>
 <h3 align="center">University of the People</h3>
 <h3 align-"center">Prerequisites: CS 1101</h3>
 
